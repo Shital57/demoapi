@@ -1,4 +1,5 @@
 #create emoployee model
+#Here we are providing relationship between model
 
 from django.db import models
 
